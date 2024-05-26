@@ -37,4 +37,6 @@ This project provided hands-on experience in:
 - Training and evaluating deep learning models.
 - Applying ensembling techniques to improve model accuracy.
 
+## Skills: 
+Computer Vision · Deep Learning · Object Detection · Convolutional Neural Networks (CNNs) · Ensembling · Data Analysis
 
