@@ -4,3 +4,6 @@ I recently completed a project on object detection using computer vision and dee
 
 One of the key challenges of this project was to combine the predictions of multiple models in a way that was both accurate and efficient. To overcome this challenge, I used a technique called ensembling, which involves combining the predictions of multiple models to improve the overall accuracy of the system.
 This project allowed me to gain hands-on experience in computer vision and deep learning, and to develop a better understanding of how to design and implement object detection systems. It also gave me the opportunity to work with large datasets and develop a better understanding of how to train and evaluate machine learning models.
+
+## Skills:
+Computer Vision · Deep Learning · Object Detection · Convolutional Neural Networks (CNNs) · Ensembling · Data Analysis
